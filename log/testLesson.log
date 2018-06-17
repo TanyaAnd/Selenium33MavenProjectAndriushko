@@ -1,0 +1,238 @@
+2018-09-06 10:48:06   INFO [libs.UIActions] : Input value to element
+2018-09-06 10:48:06   INFO [libs.UIActions] : Input value to element
+2018-09-06 10:48:07   INFO [libs.UIActions] : Element was clicked
+2018-09-06 12:07:23   INFO [pages.LoginTest] : Page login was opened
+2018-09-06 12:07:24  ERROR [libs.UIActions] : Can't input value to element
+2018-09-06 12:07:24  ERROR [libs.UIActions] : Can't input value to element
+2018-09-06 12:07:24  ERROR [libs.UIActions] : Can't click to the element
+2018-10-06 10:19:32   INFO [pages.LoginTest] : Page login was opened
+2018-10-06 10:19:32  ERROR [libs.UIActions] : Can't input value to element
+2018-10-06 10:19:32  ERROR [libs.UIActions] : Can't input value to element
+2018-10-06 10:19:32  ERROR [libs.UIActions] : Can't click to the element
+2018-10-06 10:20:44   INFO [pages.LoginTest] : Page login was opened
+2018-10-06 10:25:32   INFO [pages.LoginTest] : Page login was opened
+2018-10-06 10:25:32  ERROR [libs.UIActions] : Can't input value to element
+2018-10-06 10:25:33  ERROR [libs.UIActions] : Can't input value to element
+2018-10-06 10:25:33  ERROR [libs.UIActions] : Can't click to the element
+2018-10-06 10:25:48   INFO [pages.LoginTest] : Page login was opened
+2018-10-06 10:25:48  ERROR [libs.UIActions] : Can't input value to element
+2018-10-06 10:25:48  ERROR [libs.UIActions] : Can't input value to element
+2018-10-06 10:25:48  ERROR [libs.UIActions] : Can't click to the element
+2018-10-06 10:26:12   INFO [pages.LoginTest] : Page login was opened
+2018-10-06 10:26:13   INFO [libs.UIActions] : Input value to element
+2018-10-06 10:26:13   INFO [libs.UIActions] : Input value to element
+2018-10-06 10:26:14   INFO [libs.UIActions] : Element was clicked
+2018-10-06 11:58:19   INFO [LoginTest.ValidTest] : Remote Driver will be started
+2018-10-06 12:55:48   INFO [LoginTest.ValidTest] : Remote Driver will be started
+2018-10-06 12:59:25   INFO [LoginTest.ValidTest] : Remote Driver will be started
+2018-10-06 13:00:16   INFO [LoginTest.ValidTest] : Chrome will be started
+2018-10-06 13:03:36   INFO [LoginTest.ValidTest] : Chrome will be started
+2018-10-06 13:03:41   INFO [LoginTest.ValidTest] : Chrome is started
+2018-10-06 13:03:52  ERROR [libs.UIActions] : Can't input value to element
+2018-10-06 13:03:53   INFO [pages.LoginTest] : Page login was opened
+2018-10-06 13:03:53   INFO [libs.UIActions] : Input value to element
+2018-10-06 13:03:54   INFO [libs.UIActions] : Element was clicked
+2018-10-06 13:05:48   INFO [LoginTest.ValidTest] : Chrome will be started
+2018-10-06 13:05:54   INFO [LoginTest.ValidTest] : Chrome will be started
+2018-10-06 13:06:00   INFO [LoginTest.ValidTest] : Chrome is started
+2018-10-06 13:15:40  ERROR [libs.UIActions] : Can't input value to element
+2018-10-06 13:15:40  ERROR [pages.LoginTest] : Can't open URL
+2018-10-06 13:15:46   INFO [LoginTest.ValidTest] : Chrome will be started
+2018-10-06 13:15:52   INFO [LoginTest.ValidTest] : Chrome is started
+2018-10-06 13:16:31  ERROR [libs.UIActions] : Can't input value to element
+2018-10-06 13:16:31  ERROR [pages.LoginTest] : Can't open URL
+2018-10-06 13:16:38   INFO [LoginTest.ValidTest] : Chrome will be started
+2018-10-06 13:16:43   INFO [LoginTest.ValidTest] : Chrome is started
+2018-10-06 13:16:53  ERROR [libs.UIActions] : Can't input value to element
+2018-10-06 13:16:54   INFO [pages.LoginTest] : Page login was opened
+2018-10-06 13:16:55   INFO [libs.UIActions] : Input value to element
+2018-10-06 13:16:55   INFO [libs.UIActions] : Element was clicked
+2018-10-06 13:17:12   INFO [LoginTest.ValidTest] : Chrome will be started
+2018-10-06 13:17:26   INFO [LoginTest.ValidTest] : Chrome will be started
+2018-10-06 13:17:31   INFO [LoginTest.ValidTest] : Chrome is started
+2018-10-06 13:18:05  ERROR [libs.UIActions] : Can't input value to element
+2018-10-06 13:18:16   INFO [LoginTest.ValidTest] : Chrome will be started
+2018-10-06 13:18:21   INFO [LoginTest.ValidTest] : Chrome is started
+2018-10-06 13:18:38  ERROR [libs.UIActions] : Can't input value to element
+2018-10-06 13:18:38  ERROR [pages.LoginTest] : Can't open URL
+2018-10-06 13:19:21   INFO [LoginTest.ValidTest] : Chrome will be started
+2018-10-06 13:19:27   INFO [LoginTest.ValidTest] : Chrome is started
+2018-10-06 13:20:05  ERROR [libs.UIActions] : Can't input value to element
+2018-10-06 13:20:05  ERROR [pages.LoginTest] : Can't open URL
+2018-10-06 13:20:14   INFO [LoginTest.ValidTest] : Chrome will be started
+2018-10-06 13:20:19   INFO [LoginTest.ValidTest] : Chrome is started
+2018-10-06 13:20:49  ERROR [libs.UIActions] : Can't input value to element
+2018-10-06 13:20:49  ERROR [pages.LoginTest] : Can't open URL
+2018-10-06 13:21:04   INFO [LoginTest.ValidTest] : Chrome will be started
+2018-10-06 13:21:09   INFO [LoginTest.ValidTest] : Chrome is started
+2018-10-06 13:21:19  ERROR [libs.UIActions] : Can't input value to element
+2018-10-06 13:21:20   INFO [pages.LoginTest] : Page login was opened
+2018-10-06 13:21:21   INFO [libs.UIActions] : Input value to element
+2018-10-06 13:21:21   INFO [libs.UIActions] : Element was clicked
+2018-10-06 13:22:00   INFO [LoginTest.ValidTest] : Chrome will be started
+2018-10-06 13:22:05   INFO [LoginTest.ValidTest] : Chrome is started
+2018-10-06 13:22:44  ERROR [libs.UIActions] : Can't input value to element
+2018-10-06 13:22:44  ERROR [pages.LoginTest] : Can't open URL
+2018-10-06 13:23:11   INFO [LoginTest.ValidTest] : Chrome will be started
+2018-10-06 13:23:17   INFO [LoginTest.ValidTest] : Chrome is started
+2018-10-06 13:23:24   INFO [LoginTest.ValidTest] : Chrome will be started
+2018-10-06 13:23:31   INFO [LoginTest.ValidTest] : Chrome is started
+2018-10-06 13:23:37  ERROR [libs.UIActions] : Can't input value to element
+2018-10-06 13:23:45   INFO [LoginTest.ValidTest] : Chrome will be started
+2018-10-06 13:23:50   INFO [LoginTest.ValidTest] : Chrome is started
+2018-10-06 13:24:56  ERROR [libs.UIActions] : Can't input value to element
+2018-10-06 13:24:56  ERROR [pages.LoginTest] : Can't open URL
+2018-10-06 13:25:04   INFO [LoginTest.ValidTest] : Chrome will be started
+2018-10-06 13:25:09   INFO [LoginTest.ValidTest] : Chrome is started
+2018-10-06 13:25:10   INFO [pages.LoginTest] : Page login was opened
+2018-10-06 13:25:10   INFO [libs.UIActions] : Input value to element
+2018-10-06 13:25:10   INFO [libs.UIActions] : Input value to element
+2018-10-06 13:25:12   INFO [libs.UIActions] : Element was clicked
+2018-10-06 23:33:04   INFO [LoginTest.ValidTest] : Chrome will be started
+2018-10-06 23:33:09   INFO [LoginTest.ValidTest] : Chrome is started
+2018-10-06 23:33:10   INFO [pages.LoginTest] : Page login was opened
+2018-10-06 23:33:10   INFO [libs.UIActions] : Input value to element
+2018-10-06 23:33:11   INFO [libs.UIActions] : Input value to element
+2018-10-06 23:33:12   INFO [libs.UIActions] : Element was clicked
+2018-10-06 23:34:36   INFO [LoginTest.ValidTest] : Chrome will be started
+2018-10-06 23:34:41   INFO [LoginTest.ValidTest] : Chrome is started
+2018-10-06 23:34:42   INFO [pages.LoginPage] : Page login was opened
+2018-10-06 23:34:42   INFO [libs.UIActions] : Input value to element
+2018-10-06 23:34:43   INFO [libs.UIActions] : Input value to element
+2018-10-06 23:34:44   INFO [libs.UIActions] : Element was clicked
+2018-11-06 00:40:39   INFO [LoginTest.ValidTest] : Chrome will be started
+2018-11-06 00:40:43   INFO [LoginTest.ValidTest] : Chrome is started
+2018-11-06 00:40:44   INFO [pages.LoginPage] : Page login was opened
+2018-11-06 00:40:45   INFO [libs.UIActions] : Input value to element
+2018-11-06 00:40:45   INFO [libs.UIActions] : Input value to element
+2018-11-06 00:40:46   INFO [libs.UIActions] : Element was clicked
+2018-11-06 00:41:57   INFO [LoginTest.ValidTest] : Chrome will be started
+2018-11-06 00:42:02   INFO [LoginTest.ValidTest] : Chrome is started
+2018-11-06 00:42:12  ERROR [libs.UIActions] : Can't scroll the page
+2018-11-06 00:45:02   INFO [LoginTest.ValidTest] : Chrome will be started
+2018-11-06 00:45:06   INFO [LoginTest.ValidTest] : Chrome is started
+2018-11-06 00:45:07   INFO [pages.LoginPage] : Page login was opened
+2018-11-06 00:45:07   INFO [libs.UIActions] : Input value to element
+2018-11-06 00:45:08   INFO [libs.UIActions] : Input value to element
+2018-11-06 00:45:09   INFO [libs.UIActions] : Element was clicked
+2018-11-06 00:45:19  ERROR [libs.UIActions] : Can't scroll the page
+2018-11-06 00:45:26   INFO [LoginTest.ValidTest] : Chrome will be started
+2018-11-06 00:45:31   INFO [LoginTest.ValidTest] : Chrome is started
+2018-11-06 00:45:32   INFO [pages.LoginPage] : Page login was opened
+2018-11-06 00:45:33   INFO [libs.UIActions] : Input value to element
+2018-11-06 00:45:33   INFO [libs.UIActions] : Input value to element
+2018-11-06 00:45:34   INFO [libs.UIActions] : Element was clicked
+2018-11-06 00:45:44  ERROR [libs.UIActions] : Can't scroll the page
+2018-11-06 00:46:33   INFO [LoginTest.ValidTest] : Chrome will be started
+2018-11-06 00:46:38   INFO [LoginTest.ValidTest] : Chrome is started
+2018-11-06 00:46:39   INFO [pages.LoginPage] : Page login was opened
+2018-11-06 00:46:39   INFO [libs.UIActions] : Input value to element
+2018-11-06 00:46:40   INFO [libs.UIActions] : Input value to element
+2018-11-06 00:46:41   INFO [libs.UIActions] : Element was clicked
+2018-11-06 00:46:51  ERROR [libs.UIActions] : Can't scroll the page
+2018-11-06 00:47:44   INFO [LoginTest.ValidTest] : Chrome will be started
+2018-11-06 00:47:48   INFO [LoginTest.ValidTest] : Chrome is started
+2018-11-06 00:47:50   INFO [pages.LoginPage] : Page login was opened
+2018-11-06 00:47:50   INFO [libs.UIActions] : Input value to element
+2018-11-06 00:47:50   INFO [libs.UIActions] : Input value to element
+2018-11-06 00:47:51   INFO [libs.UIActions] : Element was clicked
+2018-11-06 00:48:01  ERROR [libs.UIActions] : Can't scroll the page
+2018-11-06 00:51:33   INFO [LoginTest.ValidTest] : Chrome will be started
+2018-11-06 00:51:37   INFO [LoginTest.ValidTest] : Chrome is started
+2018-11-06 00:51:39   INFO [pages.LoginPage] : Page login was opened
+2018-11-06 00:51:39   INFO [libs.UIActions] : Input value to element
+2018-11-06 00:51:39   INFO [libs.UIActions] : Input value to element
+2018-11-06 00:51:40   INFO [libs.UIActions] : Element was clicked
+2018-11-06 00:51:50  ERROR [libs.UIActions] : Can't scroll the page
+2018-11-06 01:07:30   INFO [LoginTest.ValidTest] : Chrome will be started
+2018-11-06 01:07:35   INFO [LoginTest.ValidTest] : Chrome is started
+2018-11-06 01:07:36   INFO [pages.LoginPage] : Page login was opened
+2018-11-06 01:07:36   INFO [libs.UIActions] : Input value to element
+2018-11-06 01:07:37   INFO [libs.UIActions] : Input value to element
+2018-11-06 01:07:38   INFO [libs.UIActions] : Element was clicked
+2018-16-06 11:00:32   INFO [LoginTest.InvalidLoginWithParameters] : Chrome will be started
+2018-16-06 11:00:43   INFO [LoginTest.InvalidLoginWithParameters] : Chrome is started
+2018-16-06 11:00:53  ERROR [libs.UIActions] : Can't input value to element
+2018-16-06 11:00:56  ERROR [libs.UIActions] : Can't input value to element
+2018-16-06 11:01:17  ERROR [libs.UIActions] : Can't click to the element
+2018-16-06 11:01:17   INFO [LoginTest.InvalidLoginWithParameters] : Chrome will be started
+2018-16-06 11:01:18   INFO [LoginTest.InvalidLoginWithParameters] : Chrome is started
+2018-16-06 11:01:22  ERROR [libs.UIActions] : Can't input value to element
+2018-16-06 11:01:22  ERROR [libs.UIActions] : Can't input value to element
+2018-16-06 11:01:42  ERROR [libs.UIActions] : Can't click to the element
+2018-16-06 11:02:00   INFO [LoginTest.InvalidLoginWithParameters] : Chrome will be started
+2018-16-06 11:02:05   INFO [LoginTest.InvalidLoginWithParameters] : Chrome is started
+2018-16-06 11:02:11   INFO [pages.LoginPage] : Page login was opened
+2018-16-06 11:02:11   INFO [libs.UIActions] : Input value to element
+2018-16-06 11:02:12   INFO [libs.UIActions] : Input value to element
+2018-16-06 11:02:12   INFO [libs.UIActions] : Element was clicked
+2018-16-06 11:02:13   INFO [LoginTest.InvalidLoginWithParameters] : Chrome will be started
+2018-16-06 11:02:14   INFO [LoginTest.InvalidLoginWithParameters] : Chrome is started
+2018-16-06 11:02:20   INFO [pages.LoginPage] : Page login was opened
+2018-16-06 11:02:21   INFO [libs.UIActions] : Input value to element
+2018-16-06 11:02:21   INFO [libs.UIActions] : Input value to element
+2018-16-06 11:02:22   INFO [libs.UIActions] : Element was clicked
+2018-16-06 11:03:06   INFO [LoginTest.InvalidLoginWithParameters] : Chrome will be started
+2018-16-06 11:03:11   INFO [LoginTest.InvalidLoginWithParameters] : Chrome is started
+2018-16-06 11:03:12   INFO [pages.LoginPage] : Page login was opened
+2018-16-06 11:03:13   INFO [libs.UIActions] : Input value to element
+2018-16-06 11:03:13   INFO [libs.UIActions] : Input value to element
+2018-16-06 11:03:14   INFO [libs.UIActions] : Element was clicked
+2018-16-06 11:03:14   INFO [LoginTest.InvalidLoginWithParameters] : Chrome will be started
+2018-16-06 11:03:16   INFO [LoginTest.InvalidLoginWithParameters] : Chrome is started
+2018-16-06 11:03:17   INFO [pages.LoginPage] : Page login was opened
+2018-16-06 11:03:17   INFO [libs.UIActions] : Input value to element
+2018-16-06 11:03:17   INFO [libs.UIActions] : Input value to element
+2018-16-06 11:03:18   INFO [libs.UIActions] : Element was clicked
+2018-16-06 11:03:53   INFO [LoginTest.InvalidLoginWithParameters] : Chrome will be started
+2018-16-06 11:03:58   INFO [LoginTest.InvalidLoginWithParameters] : Chrome is started
+2018-16-06 11:03:59   INFO [pages.LoginPage] : Page login was opened
+2018-16-06 11:03:59   INFO [libs.UIActions] : Input value to element
+2018-16-06 11:04:00   INFO [libs.UIActions] : Input value to element
+2018-16-06 11:04:00   INFO [libs.UIActions] : Element was clicked
+2018-16-06 11:04:01   INFO [LoginTest.InvalidLoginWithParameters] : Chrome will be started
+2018-16-06 11:04:02   INFO [LoginTest.InvalidLoginWithParameters] : Chrome is started
+2018-16-06 11:04:03   INFO [pages.LoginPage] : Page login was opened
+2018-16-06 11:04:04   INFO [libs.UIActions] : Input value to element
+2018-16-06 11:04:04   INFO [libs.UIActions] : Input value to element
+2018-16-06 11:04:05   INFO [libs.UIActions] : Element was clicked
+2018-16-06 11:05:40   INFO [LoginTest.InvalidLoginWithParameters] : Chrome will be started
+2018-16-06 11:05:45   INFO [LoginTest.InvalidLoginWithParameters] : Chrome is started
+2018-16-06 11:05:46   INFO [pages.LoginPage] : Page login was opened
+2018-16-06 11:05:46   INFO [libs.UIActions] : Input value to element
+2018-16-06 11:05:47   INFO [libs.UIActions] : Input value to element
+2018-16-06 11:05:48   INFO [libs.UIActions] : Element was clicked
+2018-16-06 11:05:48   INFO [LoginTest.InvalidLoginWithParameters] : Chrome will be started
+2018-16-06 11:05:49   INFO [LoginTest.InvalidLoginWithParameters] : Chrome is started
+2018-16-06 11:05:51   INFO [pages.LoginPage] : Page login was opened
+2018-16-06 11:05:51   INFO [libs.UIActions] : Input value to element
+2018-16-06 11:05:51   INFO [libs.UIActions] : Input value to element
+2018-16-06 11:05:52   INFO [libs.UIActions] : Element was clicked
+2018-16-06 11:52:07   INFO [LoginTest.InvalidLoginWithParameters] : Chrome will be started
+2018-16-06 11:52:12   INFO [LoginTest.InvalidLoginWithParameters] : Chrome is started
+2018-16-06 11:52:13   INFO [pages.LoginPage] : Page login was opened
+2018-16-06 11:52:14   INFO [libs.UIActions] : Input value to element
+2018-16-06 11:52:14   INFO [libs.UIActions] : Input value to element
+2018-16-06 11:52:15   INFO [libs.UIActions] : Element was clicked
+2018-16-06 11:52:15   INFO [LoginTest.InvalidLoginWithParameters] : Chrome will be started
+2018-16-06 11:52:17   INFO [LoginTest.InvalidLoginWithParameters] : Chrome is started
+2018-16-06 11:52:18   INFO [pages.LoginPage] : Page login was opened
+2018-16-06 11:52:18   INFO [libs.UIActions] : Input value to element
+2018-16-06 11:52:19   INFO [libs.UIActions] : Input value to element
+2018-16-06 11:52:19   INFO [libs.UIActions] : Element was clicked
+2018-16-06 11:52:43   INFO [LoginTest.ValidLoginWithParamFromExel] : Chrome will be started
+2018-16-06 11:52:48   INFO [LoginTest.ValidLoginWithParamFromExel] : Chrome is started
+2018-16-06 11:53:55   INFO [LoginTest.ValidLoginWithParamFromExel] : Chrome will be started
+2018-16-06 11:54:00   INFO [LoginTest.ValidLoginWithParamFromExel] : Chrome is started
+2018-16-06 11:54:27   INFO [LoginTest.ValidLoginWithParamFromExel] : Chrome will be started
+2018-16-06 11:54:31   INFO [LoginTest.ValidLoginWithParamFromExel] : Chrome is started
+2018-16-06 11:54:33   INFO [pages.LoginPage] : Page login was opened
+2018-16-06 11:54:34   INFO [libs.UIActions] : Input value to element
+2018-16-06 11:54:34   INFO [libs.UIActions] : Input value to element
+2018-16-06 11:54:35   INFO [libs.UIActions] : Element was clicked
+2018-16-06 12:36:54   INFO [LoginTest.ValidLoginWithParamFromExel] : Chrome will be started
+2018-16-06 12:36:59   INFO [LoginTest.ValidLoginWithParamFromExel] : Chrome is started
+2018-16-06 12:37:01   INFO [pages.LoginPage] : Page login was opened
+2018-16-06 12:37:02   INFO [libs.UIActions] : Input value to element
+2018-16-06 12:37:02   INFO [libs.UIActions] : Input value to element
+2018-16-06 12:37:03   INFO [libs.UIActions] : Element was clicked
