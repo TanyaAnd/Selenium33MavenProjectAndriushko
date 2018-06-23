@@ -28,6 +28,7 @@ import org.openqa.selenium.remote.RemoteWebDriver;
 //import pages.HomePage;
 import pages.HomePage;
 import pages.LoginPage;
+import pages.ServiceAddPage;
 import pages.ServicePage;
 
 import java.io.File;
@@ -47,6 +48,7 @@ public class ParentTest {
     public LoginPage loginPage;
     public HomePage homePage;
     public ServicePage servicePage;
+    public ServiceAddPage serviceAddPage;
     // public SdelkiListPage sdelkiListPage;
     // public EditSdelkiPage editSdelkiPage;
     // public SparePage sparePage;
@@ -144,6 +146,8 @@ public class ParentTest {
 
         loginPage = new LoginPage(driver);
         homePage = new HomePage(driver);
+        servicePage = new ServicePage(driver);
+        serviceAddPage = new ServiceAddPage(driver);
         // sdelkiListPage = new SdelkiListPage(driver);
         //editSdelkiPage = new EditSdelkiPage(driver);
         //sparePage = new SparePage(driver);

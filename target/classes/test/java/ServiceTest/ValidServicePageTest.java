@@ -3,7 +3,6 @@ package ServiceTest;
 import org.junit.Test;
 import parentTest.ParentTest;
 
-
 public class ValidServicePageTest extends ParentTest
 {
     public ValidServicePageTest(String browser) {
@@ -11,9 +10,15 @@ public class ValidServicePageTest extends ParentTest
     }
 
     @Test
-    public void validLoginTest()
+    public void validServiceTest()
     {
-        servicePage.clickServiceLink();
-        checkAcceptanceCriteria("Title is not expected", servicePage.getHeaderText(), "Обслуживание");
+        loginPage.OpenPageLogin();
+        loginPage.inputToLoginField("Student");
+        loginPage.inputToPasswordField("909090");
+        loginPage.clickSubmitButton();
+        homePage.clickServiceLink();
+        checkAcceptanceCriteria("Service header text is expected", servicePage.getHeaderText(), "Обслуживание Список");
+        servicePage.clickAddService();
+        checkAcceptanceCriteria("Add header text is expected",serviceAddPage.getHeaderText(), "Словарь");
     }
 }

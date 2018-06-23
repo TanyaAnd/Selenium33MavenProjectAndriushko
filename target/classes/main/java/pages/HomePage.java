@@ -9,6 +9,9 @@ public class HomePage extends ParentPage
     @FindBy(xpath = ".//div[@class='pull-left image']//img[@class='img-circle']")
     WebElement avatar;
 
+    @FindBy(xpath = "(.//*[@id='service_apparat']/a)[1]")
+    WebElement serviceLink;
+
     public HomePage(WebDriver driver)
     {
         super(driver);
@@ -17,6 +20,11 @@ public class HomePage extends ParentPage
     public boolean isAvatarPresent()
     {
         return uiactions.isElementPresent(avatar);
+    }
+
+    public void clickServiceLink()
+    {
+        uiactions.clickToElement(serviceLink);
     }
 
 }
