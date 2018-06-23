@@ -33,6 +33,9 @@ public class LoginPage extends ParentPage
     @FindBy(xpath = ".//button[@type = 'submit']")
     WebElement SubmitButtonXpath;
 
+    @FindBy(xpath = ".//*[@class='login-box-msg']")
+    WebElement authorizationBoxText;
+
     public LoginPage(WebDriver driver)
     {
         super(driver); // підтягує дані з class ParentPage
@@ -78,6 +81,10 @@ public class LoginPage extends ParentPage
         inputToLoginField(login);
         inputToPasswordField(password);
         clickSubmitButton();
+    }
+
+    public boolean checkSuccessfulLogout() {
+        return  uiactions.getTextFromElement(authorizationBoxText).equals("Авторизация");
     }
 
 }

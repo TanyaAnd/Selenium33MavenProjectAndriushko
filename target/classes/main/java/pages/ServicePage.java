@@ -19,6 +19,9 @@ public class ServicePage extends ParentPage
     @FindBy(xpath = "(.//*[@id='device_list']/tbody/tr[last()])")
     WebElement selectLastRowInTheServiceList;
 
+    @FindBy(xpath = ".//*[@class='breadcrumb']/li[1]/a")
+    WebElement breadcrumbsHomePage;
+
     public ServicePage(WebDriver driver) {
         super(driver);
     }
@@ -38,5 +41,10 @@ public class ServicePage extends ParentPage
     public void clickLastRowInTheServiceList()
     {
         uiactions.clickToElement(selectLastRowInTheServiceList);
+    }
+
+    public void clickBreadcrumbsHomeElement()
+    {
+        uiactions.clickToElement(breadcrumbsHomePage);
     }
 }

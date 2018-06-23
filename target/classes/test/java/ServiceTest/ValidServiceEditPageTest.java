@@ -6,7 +6,6 @@ import parentTest.ParentTest;
 
 public class ValidServiceEditPageTest extends ParentTest
 {
-
     public ValidServiceEditPageTest(String browser) {
         super(browser);
     }
