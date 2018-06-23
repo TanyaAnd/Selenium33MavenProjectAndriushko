@@ -28,8 +28,8 @@ public class ValidTest extends ParentTest
         loginPage.inputToLoginField("Student");
         loginPage.inputToPasswordField("909090");
         loginPage.clickSubmitButton();
-        checkAcceptanceCriteria("Avatar is not present", homePage.isAvatarPresent(), true);
-        checkAcceptanceCriteria("Title is not expected", homePage.getTitle(), "Hello");
+        checkAcceptanceCriteria("Avatar is not present", homePage.isAvatarPresent(),true);
+        checkAcceptanceCriteria("Title is not expected", homePage.getTitle(), "Учет запчастей");
     }
 
     //@After

@@ -1,20 +1,22 @@
 package libs;
 
+import org.junit.Assert;
 import org.openqa.selenium.By;
 import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.WebDriver;
 import org.apache.log4j.Logger;
-import org.openqa.selenium.WebElement;
-import org.openqa.selenium.support.ui.ExpectedCondition;
+import org.openqa.selenium.*;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.Select;
 import org.openqa.selenium.support.ui.WebDriverWait;
 
 public class UIActions
 {
-    WebDriver driver;
     Logger log;
+    WebDriver driver;
+    JavascriptExecutor jse;
     WebDriverWait webDriverWait;
+
 
     public UIActions(WebDriver driver)
     {
@@ -22,6 +24,20 @@ public class UIActions
         log = Logger.getLogger(getClass());
         webDriverWait = new WebDriverWait(driver, 20);
     }
+
+    /**
+     * Method which click to element by ID
+     * @param element
+     */
+    public void clickToElementById(String element){
+        try {
+            driver.findElement(By.id(element)).click();
+            log.info("Element was clicked");
+        } catch (Exception ex) {
+            log.error("Can't click to an element");
+        }
+    }
+
     /**
      * General method 'click to element'
      * @param element
@@ -30,7 +46,7 @@ public class UIActions
     {
         try
         {
-            //driver.findElement(element).click();
+            //Refactoring. driver.findElement(element).click();
             webDriverWait.until(ExpectedConditions.visibilityOf(element));
             element.click();
             log.info("Element was clicked");
@@ -41,7 +57,7 @@ public class UIActions
         }
     }
 
-    /** Method inputs value to web element
+    /** Method inputs value to the web element
      * @param element
      * @param value
      */
@@ -68,6 +84,10 @@ public class UIActions
         }
     }
 
+    public void selectDropDownElemByValue(WebElement webElement, String value){
+        webElement.findElement(By.xpath(".//option[contains(text(),'" + value + "')]")).click();
+    }
+
     public void selectItemInDropDownByVisibleText(WebElement elementDD, String textForSelect)
     {
         try
@@ -86,11 +106,24 @@ public class UIActions
     {
         try
         {
-
             return element.isDisplayed() && element.isEnabled();
         } catch (Exception ex)
         {
             return false;
+        }
+    }
+
+    public boolean isVisibleAbdEnabled(WebElement element){
+        try {
+
+            if (element.isDisplayed() && element.isEnabled()) {
+                return true;
+            } else {
+                return false;
+            }
+        } catch (Exception e) {
+            log.error("Something went wrong");
+            throw new AssertionError("isVisibleAbdEnabled: Ooops!");
         }
     }
 
@@ -107,6 +140,54 @@ public class UIActions
         }
 
     }
+
+    public void scrollDownInPixels(int pixels){
+
+        try {
+            jse.executeScript("scroll(0,"+ pixels +  ") ;");
+        } catch (Exception e) {
+            log.error("JavascriptExecutor is broken");
+            throw new AssertionError("scrollDownInPixels: Ooops!");
+        }
+    }
+
+    public void scrollUpInPixels(int pixels){
+        try {
+            jse.executeScript("scroll(0,-"+ pixels +  ") ;");
+        } catch (Exception e) {
+            log.error("JavascriptExecutor is broken");
+            throw new AssertionError("scrollUpInPixels: Ooops!");
+        }
+    }
+
+
+    public void scrollHorizontal(WebElement element){
+        try {
+            jse.executeScript("arguments[0].scrollIntoView();",element );
+
+        } catch (Exception e) {
+            log.error("JavascriptExecutor is broken");
+            throw new AssertionError("scrollHorizontal: Ooops!");
+        }
+    }
+
+    public String getTextFromElement(WebElement element){
+        try {
+            return element.getText();
+        } catch (Exception e) {
+            log.error("Something went wrong");
+            throw new AssertionError("getTextFromElement: Ooops!");
+        }
+    }
+
+    public String getCurrentUrl(){
+        try {
+            return driver.getCurrentUrl();
+        } catch (Exception e) {
+            log.error("Can't get current url");
+            throw new AssertionError("getCurrentUrl: Ooops!");
+        }
+    }
 }
 
 /**
@@ -116,6 +197,6 @@ public class UIActions
  * 3. Проскролити сторінку вниз.
  * 4. Зчитати текст з елементу.
  *
- * Прописати різні сторінки, додати локатори, і можна починати писати метод.
+ * Прописати різні сторінки, додати локатори, і можна починати писати методи для тестів.
  * Кінцевий результат - 5 авто тестів
  */

@@ -23,11 +23,12 @@ import org.openqa.selenium.remote.BrowserType;
 import org.openqa.selenium.remote.CapabilityType;
 import org.openqa.selenium.remote.DesiredCapabilities;
 import org.openqa.selenium.remote.RemoteWebDriver;
-//import pages.ApparatPage;
+//import pages.ServicePage;
 //import pages.EditApparatPage;
 //import pages.HomePage;
 import pages.HomePage;
 import pages.LoginPage;
+import pages.ServicePage;
 
 import java.io.File;
 import java.io.IOException;
@@ -45,11 +46,12 @@ public class ParentTest {
     WebDriver driver;
     public LoginPage loginPage;
     public HomePage homePage;
+    public ServicePage servicePage;
     // public SdelkiListPage sdelkiListPage;
     // public EditSdelkiPage editSdelkiPage;
     // public SparePage sparePage;
     // public EditNewSparePage editNewSparePage;
-    //public ApparatPage apparatPage;
+    //public ServicePage apparatPage;
     //public EditApparatPage editApparatPage;
     //public TypeSdelkiPage typeSdelkiPage;
     //public EditTypeSdelkiPage editTypeSdelkiPage;
@@ -146,7 +148,7 @@ public class ParentTest {
         //editSdelkiPage = new EditSdelkiPage(driver);
         //sparePage = new SparePage(driver);
         //editNewSparePage = new EditNewSparePage(driver);
-        //apparatPage = new ApparatPage(driver);
+        //apparatPage = new ServicePage(driver);
         //editApparatPage = new EditApparatPage(driver);
         // typeSdelkiPage = new TypeSdelkiPage(driver);
         // editTypeSdelkiPage = new EditTypeSdelkiPage(driver);

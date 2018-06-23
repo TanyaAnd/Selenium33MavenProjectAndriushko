@@ -236,3 +236,21 @@
 2018-16-06 12:37:02   INFO [libs.UIActions] : Input value to element
 2018-16-06 12:37:02   INFO [libs.UIActions] : Input value to element
 2018-16-06 12:37:03   INFO [libs.UIActions] : Element was clicked
+2018-22-06 17:51:51   INFO [LoginTest.ValidTest] : Chrome will be started
+2018-22-06 17:51:58   INFO [LoginTest.ValidTest] : Chrome is started
+2018-22-06 17:51:59   INFO [pages.LoginPage] : Page login was opened
+2018-22-06 17:52:00   INFO [libs.UIActions] : Input value to element
+2018-22-06 17:52:00   INFO [libs.UIActions] : Input value to element
+2018-22-06 17:52:01   INFO [libs.UIActions] : Element was clicked
+2018-22-06 17:53:01   INFO [LoginTest.ValidTest] : Chrome will be started
+2018-22-06 17:53:06   INFO [LoginTest.ValidTest] : Chrome is started
+2018-22-06 17:53:07   INFO [pages.LoginPage] : Page login was opened
+2018-22-06 17:53:08   INFO [libs.UIActions] : Input value to element
+2018-22-06 17:53:08   INFO [libs.UIActions] : Input value to element
+2018-22-06 17:53:09   INFO [libs.UIActions] : Element was clicked
+2018-23-06 09:50:39   INFO [LoginTest.ValidTest] : Chrome will be started
+2018-23-06 09:50:44   INFO [LoginTest.ValidTest] : Chrome is started
+2018-23-06 09:50:45   INFO [pages.LoginPage] : Page login was opened
+2018-23-06 09:50:45   INFO [libs.UIActions] : Input value to element
+2018-23-06 09:50:45   INFO [libs.UIActions] : Input value to element
+2018-23-06 09:50:46   INFO [libs.UIActions] : Element was clicked

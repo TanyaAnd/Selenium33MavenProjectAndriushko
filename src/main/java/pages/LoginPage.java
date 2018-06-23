@@ -17,7 +17,7 @@ public class LoginPage extends ParentPage
 //    String PasswordFieldid = "password";
 //    String SubmitButtonType = "submit";
 
-    //2) type
+    // 2) type
 //    By LoginFieldName = By.name("_username");
 //    By PasswordFieldid = By.id("password");
 //    By SubmitButtonXpath = By.xpath(".//button[@type='submit']");
