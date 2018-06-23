@@ -18,7 +18,5 @@ public class ValidServicePageTest extends ParentTest
         loginPage.clickSubmitButton();
         homePage.clickServiceLink();
         checkAcceptanceCriteria("Service header text is expected", servicePage.getHeaderText(), "Обслуживание Список");
-        servicePage.clickAddService();
-        checkAcceptanceCriteria("Add header text is expected",serviceAddPage.getHeaderText(), "Словарь");
     }
 }

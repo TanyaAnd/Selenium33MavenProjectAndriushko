@@ -443,3 +443,150 @@
 2018-23-06 12:47:50   INFO [libs.UIActions] : Element was clicked
 2018-23-06 12:47:51   INFO [libs.UIActions] : Element was clicked
 2018-23-06 12:47:52   INFO [libs.UIActions] : Element was clicked
+2018-23-06 13:31:19   INFO [ServiceTest.ValidServicePageTest] : Chrome will be started
+2018-23-06 13:31:24   INFO [ServiceTest.ValidServicePageTest] : Chrome is started
+2018-23-06 13:31:25   INFO [pages.LoginPage] : Page login was opened
+2018-23-06 13:31:25   INFO [libs.UIActions] : Input value to element
+2018-23-06 13:31:26   INFO [libs.UIActions] : Input value to element
+2018-23-06 13:31:27   INFO [libs.UIActions] : Element was clicked
+2018-23-06 13:31:27   INFO [libs.UIActions] : Element was clicked
+2018-23-06 13:31:28   INFO [libs.UIActions] : Element was clicked
+2018-23-06 13:31:29   INFO [libs.UIActions] : Input value to element
+2018-23-06 13:31:29   INFO [libs.UIActions] : Input value to element
+2018-23-06 13:34:07   INFO [ServiceTest.ValidServicePageTest] : Chrome will be started
+2018-23-06 13:34:12   INFO [ServiceTest.ValidServicePageTest] : Chrome is started
+2018-23-06 13:34:18   INFO [pages.LoginPage] : Page login was opened
+2018-23-06 13:34:18   INFO [libs.UIActions] : Input value to element
+2018-23-06 13:34:18   INFO [libs.UIActions] : Input value to element
+2018-23-06 13:34:19   INFO [libs.UIActions] : Element was clicked
+2018-23-06 13:34:20   INFO [libs.UIActions] : Element was clicked
+2018-23-06 13:34:21   INFO [libs.UIActions] : Element was clicked
+2018-23-06 13:34:21   INFO [libs.UIActions] : Input value to element
+2018-23-06 13:34:21   INFO [libs.UIActions] : Input value to element
+2018-23-06 13:41:01   INFO [ServiceTest.ValidServicePageTest] : Chrome will be started
+2018-23-06 13:41:05   INFO [ServiceTest.ValidServicePageTest] : Chrome is started
+2018-23-06 13:41:06   INFO [pages.LoginPage] : Page login was opened
+2018-23-06 13:41:06   INFO [libs.UIActions] : Input value to element
+2018-23-06 13:41:07   INFO [libs.UIActions] : Input value to element
+2018-23-06 13:41:08   INFO [libs.UIActions] : Element was clicked
+2018-23-06 13:41:08   INFO [libs.UIActions] : Element was clicked
+2018-23-06 13:41:09   INFO [libs.UIActions] : Element was clicked
+2018-23-06 13:41:09   INFO [libs.UIActions] : Input value to element
+2018-23-06 13:41:10   INFO [libs.UIActions] : Input value to element
+2018-23-06 13:41:11   INFO [libs.UIActions] : Element was clicked
+2018-23-06 14:00:14   INFO [ServiceTest.ValidServicePageTest] : Chrome will be started
+2018-23-06 14:00:21   INFO [ServiceTest.ValidServicePageTest] : Chrome is started
+2018-23-06 14:00:23   INFO [pages.LoginPage] : Page login was opened
+2018-23-06 14:00:23   INFO [libs.UIActions] : Input value to element
+2018-23-06 14:00:24   INFO [libs.UIActions] : Input value to element
+2018-23-06 14:00:25   INFO [libs.UIActions] : Element was clicked
+2018-23-06 14:00:26   INFO [libs.UIActions] : Element was clicked
+2018-23-06 14:00:27   INFO [libs.UIActions] : Element was clicked
+2018-23-06 14:00:28   INFO [libs.UIActions] : Input value to element
+2018-23-06 14:00:28   INFO [libs.UIActions] : Input value to element
+2018-23-06 14:00:30   INFO [libs.UIActions] : Element was clicked
+2018-23-06 14:07:04   INFO [ServiceTest.ValidServicePageTest] : Chrome will be started
+2018-23-06 14:07:12   INFO [ServiceTest.ValidServicePageTest] : Chrome is started
+2018-23-06 14:07:14   INFO [pages.LoginPage] : Page login was opened
+2018-23-06 14:07:14   INFO [libs.UIActions] : Input value to element
+2018-23-06 14:07:14   INFO [libs.UIActions] : Input value to element
+2018-23-06 14:07:16   INFO [libs.UIActions] : Element was clicked
+2018-23-06 14:07:17   INFO [libs.UIActions] : Element was clicked
+2018-23-06 14:07:39   INFO [ServiceTest.ValidServiceAddPageTest] : Chrome will be started
+2018-23-06 14:07:46   INFO [ServiceTest.ValidServiceAddPageTest] : Chrome is started
+2018-23-06 14:07:47   INFO [pages.LoginPage] : Page login was opened
+2018-23-06 14:07:47   INFO [libs.UIActions] : Input value to element
+2018-23-06 14:07:48   INFO [libs.UIActions] : Input value to element
+2018-23-06 14:07:49   INFO [libs.UIActions] : Element was clicked
+2018-23-06 14:07:50   INFO [libs.UIActions] : Element was clicked
+2018-23-06 14:07:51   INFO [libs.UIActions] : Element was clicked
+2018-23-06 14:07:52   INFO [libs.UIActions] : Input value to element
+2018-23-06 14:07:52   INFO [libs.UIActions] : Input value to element
+2018-23-06 14:07:54   INFO [libs.UIActions] : Element was clicked
+2018-23-06 14:38:40   INFO [ServiceTest.ValidServiceAddPageTest] : Chrome will be started
+2018-23-06 14:38:44   INFO [ServiceTest.ValidServiceAddPageTest] : Chrome is started
+2018-23-06 14:38:51   INFO [pages.LoginPage] : Page login was opened
+2018-23-06 14:38:51   INFO [libs.UIActions] : Input value to element
+2018-23-06 14:38:51   INFO [libs.UIActions] : Input value to element
+2018-23-06 14:38:53   INFO [libs.UIActions] : Element was clicked
+2018-23-06 14:38:53   INFO [libs.UIActions] : Element was clicked
+2018-23-06 14:38:54   INFO [libs.UIActions] : Element was clicked
+2018-23-06 14:38:54   INFO [libs.UIActions] : Input value to element
+2018-23-06 14:38:55   INFO [libs.UIActions] : Input value to element
+2018-23-06 14:38:56   INFO [libs.UIActions] : Element was clicked
+2018-23-06 14:39:35   INFO [ServiceTest.ValidServiceEditPageTest] : Chrome will be started
+2018-23-06 14:39:39   INFO [ServiceTest.ValidServiceEditPageTest] : Chrome is started
+2018-23-06 14:39:40   INFO [pages.LoginPage] : Page login was opened
+2018-23-06 14:39:41   INFO [libs.UIActions] : Input value to element
+2018-23-06 14:39:41   INFO [libs.UIActions] : Input value to element
+2018-23-06 14:39:42   INFO [libs.UIActions] : Element was clicked
+2018-23-06 14:39:43   INFO [libs.UIActions] : Element was clicked
+2018-23-06 14:39:44   INFO [libs.UIActions] : Element was clicked
+2018-23-06 14:39:44   INFO [libs.UIActions] : Input value to element
+2018-23-06 14:39:45   INFO [libs.UIActions] : Input value to element
+2018-23-06 14:39:46   INFO [libs.UIActions] : Element was clicked
+2018-23-06 14:39:46   INFO [libs.UIActions] : Element was clicked
+2018-23-06 14:39:47   INFO [libs.UIActions] : Element was clicked
+2018-23-06 14:44:32   INFO [ServiceTest.ValidServiceEditPageTest] : Chrome will be started
+2018-23-06 14:44:36   INFO [ServiceTest.ValidServiceEditPageTest] : Chrome is started
+2018-23-06 14:44:37   INFO [pages.LoginPage] : Page login was opened
+2018-23-06 14:44:37   INFO [libs.UIActions] : Input value to element
+2018-23-06 14:44:38   INFO [libs.UIActions] : Input value to element
+2018-23-06 14:44:39   INFO [libs.UIActions] : Element was clicked
+2018-23-06 14:44:39   INFO [libs.UIActions] : Element was clicked
+2018-23-06 14:44:40   INFO [libs.UIActions] : Element was clicked
+2018-23-06 14:44:40   INFO [libs.UIActions] : Input value to element
+2018-23-06 14:44:41   INFO [libs.UIActions] : Input value to element
+2018-23-06 14:44:42   INFO [libs.UIActions] : Element was clicked
+2018-23-06 14:44:43   INFO [libs.UIActions] : Element was clicked
+2018-23-06 14:44:43   INFO [libs.UIActions] : Element was clicked
+2018-23-06 14:50:16   INFO [ServiceTest.ValidServiceEditPageTest] : Chrome will be started
+2018-23-06 14:50:21   INFO [ServiceTest.ValidServiceEditPageTest] : Chrome is started
+2018-23-06 14:50:22   INFO [pages.LoginPage] : Page login was opened
+2018-23-06 14:50:22   INFO [libs.UIActions] : Input value to element
+2018-23-06 14:50:23   INFO [libs.UIActions] : Input value to element
+2018-23-06 14:50:24   INFO [libs.UIActions] : Element was clicked
+2018-23-06 14:50:24   INFO [libs.UIActions] : Element was clicked
+2018-23-06 14:50:25   INFO [libs.UIActions] : Element was clicked
+2018-23-06 14:50:26   INFO [libs.UIActions] : Input value to element
+2018-23-06 14:50:26   INFO [libs.UIActions] : Input value to element
+2018-23-06 14:50:27   INFO [libs.UIActions] : Element was clicked
+2018-23-06 14:50:28   INFO [libs.UIActions] : Element was clicked
+2018-23-06 14:50:29   INFO [libs.UIActions] : Element was clicked
+2018-23-06 14:51:44   INFO [ServiceTest.ValidServiceEditPageTest] : Chrome will be started
+2018-23-06 14:51:48   INFO [ServiceTest.ValidServiceEditPageTest] : Chrome is started
+2018-23-06 14:51:50   INFO [pages.LoginPage] : Page login was opened
+2018-23-06 14:51:50   INFO [libs.UIActions] : Input value to element
+2018-23-06 14:51:50   INFO [libs.UIActions] : Input value to element
+2018-23-06 14:51:51   INFO [libs.UIActions] : Element was clicked
+2018-23-06 14:51:52   INFO [libs.UIActions] : Element was clicked
+2018-23-06 14:51:53   INFO [libs.UIActions] : Element was clicked
+2018-23-06 14:51:53   INFO [libs.UIActions] : Input value to element
+2018-23-06 14:51:53   INFO [libs.UIActions] : Input value to element
+2018-23-06 14:51:54   INFO [libs.UIActions] : Element was clicked
+2018-23-06 14:51:55   INFO [libs.UIActions] : Element was clicked
+2018-23-06 14:51:56   INFO [libs.UIActions] : Element was clicked
+2018-23-06 14:58:09   INFO [ServiceTest.ValidServiceEditPageTest] : Chrome will be started
+2018-23-06 14:58:14   INFO [ServiceTest.ValidServiceEditPageTest] : Chrome is started
+2018-23-06 14:58:15   INFO [pages.LoginPage] : Page login was opened
+2018-23-06 14:58:15   INFO [libs.UIActions] : Input value to element
+2018-23-06 14:58:16   INFO [libs.UIActions] : Input value to element
+2018-23-06 14:58:17   INFO [libs.UIActions] : Element was clicked
+2018-23-06 14:58:17   INFO [libs.UIActions] : Element was clicked
+2018-23-06 14:58:18   INFO [libs.UIActions] : Element was clicked
+2018-23-06 14:58:19   INFO [libs.UIActions] : Input value to element
+2018-23-06 14:58:19   INFO [libs.UIActions] : Input value to element
+2018-23-06 14:58:20   INFO [libs.UIActions] : Element was clicked
+2018-23-06 14:58:21   INFO [libs.UIActions] : Element was clicked
+2018-23-06 14:58:21   INFO [libs.UIActions] : Element was clicked
+2018-23-06 14:59:47   INFO [ServiceTest.ValidServiceAddPageTest] : Chrome will be started
+2018-23-06 14:59:51   INFO [ServiceTest.ValidServiceAddPageTest] : Chrome is started
+2018-23-06 14:59:53   INFO [pages.LoginPage] : Page login was opened
+2018-23-06 14:59:53   INFO [libs.UIActions] : Input value to element
+2018-23-06 14:59:53   INFO [libs.UIActions] : Input value to element
+2018-23-06 14:59:54   INFO [libs.UIActions] : Element was clicked
+2018-23-06 14:59:55   INFO [libs.UIActions] : Element was clicked
+2018-23-06 14:59:56   INFO [libs.UIActions] : Element was clicked
+2018-23-06 14:59:56   INFO [libs.UIActions] : Input value to element
+2018-23-06 14:59:56   INFO [libs.UIActions] : Input value to element
+2018-23-06 14:59:57   INFO [libs.UIActions] : Element was clicked

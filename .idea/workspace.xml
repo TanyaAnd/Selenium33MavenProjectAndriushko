@@ -2,13 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d2ca7a49-e1ba-43ce-ad3b-9fcabe5d8550" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/pages/ServiceAddPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pages/ServiceEditPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ServiceTest/ValidServiceAddPageTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ServiceTest/ValidServiceEditPageTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/log/testLesson.log" beforeDir="false" afterPath="$PROJECT_DIR$/log/testLesson.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pages/HomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pages/HomePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pages/ServiceAddPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pages/ServiceAddPage.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/pages/ServicePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pages/ServicePage.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/ServiceTest/ValidServicePageTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ServiceTest/ValidServicePageTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/parentTest/ParentTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/parentTest/ParentTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/main/java/pages/ServiceAddPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/main/java/pages/ServiceAddPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/main/java/pages/ServicePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/main/java/pages/ServicePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pages/ServiceAddPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pages/ServiceAddPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pages/ServicePage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pages/ServicePage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/test/java/ServiceTest/ValidServicePageTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/test/java/ServiceTest/ValidServicePageTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/test/java/parentTest/ParentTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/test/java/parentTest/ParentTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/ServiceTest/ValidServicePageTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/ServiceTest/ValidServicePageTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/parentTest/ParentTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/parentTest/ParentTest.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -23,14 +33,40 @@
       <file leaf-file-name="ServicePage.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/pages/ServicePage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="19" column="108" selection-start-line="19" selection-start-column="108" selection-end-line="19" selection-end-column="108" />
+            <state relative-caret-position="146">
+              <caret line="34" column="87" lean-forward="true" selection-start-line="34" selection-start-column="87" selection-end-line="34" selection-end-column="87" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#140#141#0" expanded="true" />
                 <element signature="e#169#170#0" expanded="true" />
                 <element signature="e#667#668#0" expanded="true" />
                 <element signature="e#720#721#0" expanded="true" />
+                <element signature="e#1019#1020#0" expanded="true" />
+                <element signature="e#1077#1078#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ValidServiceAddPageTest.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/ServiceTest/ValidServiceAddPageTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="207">
+              <caret line="24" column="94" lean-forward="true" selection-start-line="24" selection-start-column="94" selection-end-line="24" selection-end-column="94" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ValidServicePageTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/ServiceTest/ValidServicePageTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="19" column="119" selection-start-line="19" selection-start-column="119" selection-end-line="19" selection-end-column="119" />
+              <folding>
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -39,36 +75,48 @@
       <file leaf-file-name="ServiceAddPage.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/pages/ServiceAddPage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="19" column="97" selection-start-line="19" selection-start-column="97" selection-end-line="19" selection-end-column="97" />
+            <state relative-caret-position="-30">
+              <caret line="28" column="22" lean-forward="true" selection-start-line="28" selection-start-column="22" selection-end-line="28" selection-end-column="22" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#422#423#0" expanded="true" />
                 <element signature="e#451#452#0" expanded="true" />
+                <element signature="e#588#589#0" expanded="true" />
+                <element signature="e#653#654#0" expanded="true" />
+                <element signature="e#1113#1114#0" expanded="true" />
+                <element signature="e#1180#1181#0" expanded="true" />
+                <element signature="e#1249#1250#0" expanded="true" />
+                <element signature="e#1315#1316#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ValidServicePageTest.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/ServiceTest/ValidServicePageTest.java">
+      <file leaf-file-name="ServiceEditPage.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/pages/ServiceEditPage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="23" column="88" lean-forward="true" selection-start-line="23" selection-start-column="88" selection-end-line="23" selection-end-column="88" />
+            <state relative-caret-position="135">
+              <caret line="9" column="28" lean-forward="true" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="28" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#237#238#0" expanded="true" />
+                <element signature="e#266#267#0" expanded="true" />
+                <element signature="e#378#379#0" expanded="true" />
+                <element signature="e#449#450#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ParentTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/parentTest/ParentTest.java">
+      <file leaf-file-name="ValidServiceEditPageTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/ServiceTest/ValidServiceEditPageTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="157">
-              <caret line="182" column="19" selection-start-line="182" selection-start-column="19" selection-end-line="182" selection-end-column="19" />
+            <state relative-caret-position="222">
+              <caret line="29" column="48" selection-start-line="29" selection-start-column="48" selection-end-line="29" selection-end-column="48" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#189#190#0" expanded="true" />
+                <element signature="e#219#220#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -104,12 +152,15 @@
         <option value="$PROJECT_DIR$/src/main/java/pages/LoginPage.java" />
         <option value="$PROJECT_DIR$/src/test/java/LoginTest/ValidTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/pages/ApparatPage.java" />
-        <option value="$PROJECT_DIR$/src/main/java/pages/ServiceEditPage.java" />
         <option value="$PROJECT_DIR$/src/main/java/pages/HomePage.java" />
-        <option value="$PROJECT_DIR$/src/test/java/parentTest/ParentTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/pages/ServicePage.java" />
         <option value="$PROJECT_DIR$/src/main/java/pages/ServiceAddPage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/ServiceTest/ValidServiceAddTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/ServiceTest/ValidServicePageTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pages/ServiceEditPage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/parentTest/ParentTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/ServiceTest/ValidServiceEditPageTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pages/ServicePage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/ServiceTest/ValidServiceAddPageTest.java" />
       </list>
     </option>
   </component>
@@ -205,6 +256,14 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="parentTest" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Andriushko" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Andriushko" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="ServiceTest" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -242,24 +301,24 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.ValidServicePageTest">
+  <component name="RunManager">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
-    <configuration name="InvalidLoginWithParameters.invalidLogin" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ValidServiceAddPageTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Andriushko" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="LoginTest.*" />
+          <option name="PATTERN" value="ServiceTest.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="LoginTest" />
-      <option name="MAIN_CLASS_NAME" value="LoginTest.InvalidLoginWithParameters" />
-      <option name="METHOD_NAME" value="invalidLogin" />
-      <option name="TEST_OBJECT" value="method" />
+      <option name="PACKAGE_NAME" value="ServiceTest" />
+      <option name="MAIN_CLASS_NAME" value="ServiceTest.ValidServiceAddPageTest" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
@@ -269,18 +328,18 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="ValidLoginWithParamFromExel" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ValidServiceEditPageTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Andriushko" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="LoginTest.*" />
+          <option name="PATTERN" value="ServiceTest.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="LoginTest" />
-      <option name="MAIN_CLASS_NAME" value="LoginTest.ValidLoginWithParamFromExel" />
+      <option name="PACKAGE_NAME" value="ServiceTest" />
+      <option name="MAIN_CLASS_NAME" value="ServiceTest.ValidServiceEditPageTest" />
       <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
       <option name="VM_PARAMETERS" value="-ea" />
@@ -401,18 +460,18 @@
     </configuration>
     <list>
       <item itemvalue="JUnit.ValidTest" />
-      <item itemvalue="JUnit.InvalidLoginWithParameters.invalidLogin" />
-      <item itemvalue="JUnit.ValidLoginWithParamFromExel" />
       <item itemvalue="JUnit.ValidServicePageTest" />
       <item itemvalue="JUnit.ValidServicePageTest.validServiceTest" />
+      <item itemvalue="JUnit.ValidServiceAddPageTest" />
+      <item itemvalue="JUnit.ValidServiceEditPageTest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.ValidServiceAddPageTest" />
+        <item itemvalue="JUnit.ValidServiceEditPageTest" />
         <item itemvalue="JUnit.ValidServicePageTest" />
         <item itemvalue="JUnit.ValidServicePageTest.validServiceTest" />
         <item itemvalue="JUnit.ValidTest" />
-        <item itemvalue="JUnit.ValidLoginWithParamFromExel" />
-        <item itemvalue="JUnit.InvalidLoginWithParameters.invalidLogin" />
       </list>
     </recent_temporary>
   </component>
@@ -430,35 +489,35 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="ValidServicePageTest - 2018.06.23 at 11h 53m 20s.xml">
+    <history-entry file="ValidServicePageTest - 2018.06.23 at 13h 34m 32s.xml">
       <configuration name="ValidServicePageTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ValidServicePageTest - 2018.06.23 at 12h 02m 19s.xml">
+    <history-entry file="ValidServicePageTest - 2018.06.23 at 13h 41m 11s.xml">
       <configuration name="ValidServicePageTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ValidServicePageTest - 2018.06.23 at 12h 03m 32s.xml">
+    <history-entry file="ValidServicePageTest - 2018.06.23 at 14h 00m 30s.xml">
       <configuration name="ValidServicePageTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ValidServicePageTest - 2018.06.23 at 12h 10m 10s.xml">
+    <history-entry file="ValidServicePageTest - 2018.06.23 at 14h 07m 17s.xml">
       <configuration name="ValidServicePageTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ValidServicePageTest - 2018.06.23 at 12h 11m 04s.xml">
-      <configuration name="ValidServicePageTest" configurationId="JUnit" />
+    <history-entry file="ValidServiceAddTest - 2018.06.23 at 14h 07m 54s.xml">
+      <configuration name="ValidServiceAddTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ValidServicePageTest - 2018.06.23 at 12h 13m 03s.xml">
-      <configuration name="ValidServicePageTest" configurationId="JUnit" />
+    <history-entry file="ValidServiceAddPageTest - 2018.06.23 at 14h 38m 56s.xml">
+      <configuration name="ValidServiceAddPageTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ValidServicePageTest - 2018.06.23 at 12h 15m 30s.xml">
-      <configuration name="ValidServicePageTest" configurationId="JUnit" />
+    <history-entry file="ValidServiceEditPageTest - 2018.06.23 at 14h 39m 48s.xml">
+      <configuration name="ValidServiceEditPageTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ValidServicePageTest - 2018.06.23 at 12h 16m 36s.xml">
-      <configuration name="ValidServicePageTest" configurationId="JUnit" />
+    <history-entry file="ValidServiceEditPageTest - 2018.06.23 at 14h 44m 44s.xml">
+      <configuration name="ValidServiceEditPageTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ValidServicePageTest - 2018.06.23 at 12h 18m 17s.xml">
-      <configuration name="ValidServicePageTest" configurationId="JUnit" />
+    <history-entry file="ValidServiceEditPageTest - 2018.06.23 at 14h 50m 29s.xml">
+      <configuration name="ValidServiceEditPageTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ValidServicePageTest - 2018.06.23 at 12h 19m 02s.xml">
-      <configuration name="ValidServicePageTest" configurationId="JUnit" />
+    <history-entry file="ValidServiceEditPageTest - 2018.06.23 at 14h 51m 56s.xml">
+      <configuration name="ValidServiceEditPageTest" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
@@ -650,28 +709,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pages/ParentPage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="39" column="70" selection-start-line="39" selection-start-column="70" selection-end-line="39" selection-end-column="70" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#671#672#0" expanded="true" />
-            <element signature="e#711#712#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pages/LoginPage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="536">
-          <caret line="39" lean-forward="true" selection-start-line="39" selection-end-line="39" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/Assert.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="122">
@@ -683,16 +720,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="113">
           <caret line="173" column="18" selection-start-line="173" selection-start-column="18" selection-end-line="173" selection-end-column="18" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/LoginTest/ValidTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="31" column="69" selection-start-line="31" selection-start-column="69" selection-end-line="31" selection-end-column="69" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -713,46 +740,122 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/parentTest/ParentTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/pages/LoginPage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="157">
-          <caret line="182" column="19" selection-start-line="182" selection-start-column="19" selection-end-line="182" selection-end-column="19" />
+        <state relative-caret-position="386">
+          <caret line="74" column="44" selection-start-line="74" selection-start-column="44" selection-end-line="74" selection-end-column="44" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pages/ServicePage.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/LoginTest/ValidTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="19" column="108" selection-start-line="19" selection-start-column="108" selection-end-line="19" selection-end-column="108" />
+        <state relative-caret-position="356">
+          <caret line="31" column="69" selection-start-line="31" selection-start-column="69" selection-end-line="31" selection-end-column="69" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#140#141#0" expanded="true" />
-            <element signature="e#169#170#0" expanded="true" />
-            <element signature="e#667#668#0" expanded="true" />
-            <element signature="e#720#721#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/pages/ServiceAddPage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="19" column="97" selection-start-line="19" selection-start-column="97" selection-end-line="19" selection-end-column="97" />
+        <state relative-caret-position="-30">
+          <caret line="28" column="22" lean-forward="true" selection-start-line="28" selection-start-column="22" selection-end-line="28" selection-end-column="22" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#422#423#0" expanded="true" />
             <element signature="e#451#452#0" expanded="true" />
+            <element signature="e#588#589#0" expanded="true" />
+            <element signature="e#653#654#0" expanded="true" />
+            <element signature="e#1113#1114#0" expanded="true" />
+            <element signature="e#1180#1181#0" expanded="true" />
+            <element signature="e#1249#1250#0" expanded="true" />
+            <element signature="e#1315#1316#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pages/ParentPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="39" column="70" selection-start-line="39" selection-start-column="70" selection-end-line="39" selection-end-column="70" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#671#672#0" expanded="true" />
+            <element signature="e#711#712#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/parentTest/ParentTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1663">
+          <caret line="48" column="43" lean-forward="true" selection-start-line="48" selection-start-column="43" selection-end-line="48" selection-end-column="43" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/ServiceTest/ValidServicePageTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="23" column="88" lean-forward="true" selection-start-line="23" selection-start-column="88" selection-end-line="23" selection-end-column="88" />
+        <state relative-caret-position="255">
+          <caret line="19" column="119" selection-start-line="19" selection-start-column="119" selection-end-line="19" selection-end-column="119" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pages/ServiceEditPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="28" lean-forward="true" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#237#238#0" expanded="true" />
+            <element signature="e#266#267#0" expanded="true" />
+            <element signature="e#378#379#0" expanded="true" />
+            <element signature="e#449#450#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/ServiceTest/ValidServiceEditPageTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="222">
+          <caret line="29" column="48" selection-start-line="29" selection-start-column="48" selection-end-line="29" selection-end-column="48" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#189#190#0" expanded="true" />
+            <element signature="e#219#220#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pages/ServicePage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="146">
+          <caret line="34" column="87" lean-forward="true" selection-start-line="34" selection-start-column="87" selection-end-line="34" selection-end-column="87" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#140#141#0" expanded="true" />
+            <element signature="e#169#170#0" expanded="true" />
+            <element signature="e#667#668#0" expanded="true" />
+            <element signature="e#720#721#0" expanded="true" />
+            <element signature="e#1019#1020#0" expanded="true" />
+            <element signature="e#1077#1078#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/ServiceTest/ValidServiceAddPageTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="24" column="94" lean-forward="true" selection-start-line="24" selection-start-column="94" selection-end-line="24" selection-end-column="94" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
